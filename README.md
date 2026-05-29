@@ -1,34 +1,52 @@
-# IMDB Sentiment Analysis With Neural Networks
+# Advanced Machine Learning Coursework Portfolio
 
-Advanced machine learning project focused on sentiment classification for IMDB movie reviews.
+Machine learning coursework repository containing notebook and report deliverables for neural networks, NLP, and advanced model experimentation.
 
 ## Portfolio Summary
 
-This repository contains coursework deliverables reframed as a portfolio case study. The project demonstrates neural-network experimentation, notebook-based analysis, and technical reporting for natural language processing.
+This repository preserves multiple Advanced Machine Learning assignments as a portfolio evidence set. The strongest portfolio thread is IMDB sentiment classification with neural-network workflows, supported by later assignments and a final project notebook/report.
 
-## Problem
-
-The goal is to classify movie reviews by sentiment using machine learning methods and neural-network workflows. Sentiment analysis is a common NLP task that tests text preprocessing, model design, evaluation, and interpretation.
+The work demonstrates notebook-based experimentation, technical reporting, model evaluation, and communication of machine learning results.
 
 ## Repository Contents
 
-All original deliverables are stored in `Assignment-2/`:
+| Path | Contents |
+|---|---|
+| `Assignment-2/` | IMDB sentiment analysis deliverables, including report/exported notebook artifacts |
+| `Assignment_3/` | Advanced machine learning assignment notebook and PDF |
+| `Assignment_4/` | Advanced machine learning assignment notebook and PDF |
+| `Final_Project/` | Final project notebook and PDF report |
 
-- `Sairam_Jammu_AML_Assignment.ipynb` - Jupyter notebook with experiments
-- `Sairam_Jammu_AML_Assignment_2.pdf` - final report
-- `Sairam Jammu AML assignment 2.docx` - editable report version
+## Main Case Study: IMDB Sentiment Analysis
+
+The IMDB assignment focuses on classifying movie reviews by sentiment using machine learning and neural-network concepts. Sentiment analysis is a practical NLP task that tests:
+
+- Text preprocessing
+- Feature representation
+- Model design
+- Training and evaluation
+- Interpretation of classification results
 
 ## Skills Demonstrated
 
 - Notebook-based model experimentation
 - Text classification workflow
 - Neural-network modeling concepts
+- Advanced ML assignment delivery
 - Report writing and technical communication
 - Reproducible academic deliverables
 
 ## Portfolio Notes
 
-This repository began as an Advanced Machine Learning assignment. It is kept public as evidence of coursework and model experimentation. Future improvements could add a cleaner project structure, setup instructions, model metrics summary, and a short reproducibility guide.
+This repository began as academic coursework and is kept public as evidence of applied model experimentation. It is not yet structured as a production package.
+
+Recommended future improvements:
+
+- Add a `requirements.txt` or environment file
+- Rename files to remove spaces and typos
+- Add metric summaries for each assignment
+- Export notebooks to cleaner HTML or Markdown summaries
+- Add a short reproducibility guide for each folder
 
 ## Author
 
